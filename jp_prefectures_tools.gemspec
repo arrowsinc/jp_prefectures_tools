@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = JpPrefecturesTools::VERSION
   spec.authors       = ["Takuya Mukohira"]
   spec.email         = ["takuya.mk96@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{This is a tools of prefectures of Japan.}
+  spec.homepage      = "https://github.com/lo-upe/jp_prefectures_tools"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
